@@ -1,0 +1,27 @@
+{
+  "name": "anuragjainco",
+  "version": "1.0.0",
+  "description": "Website for anuragjain.co, tec:qhnical blog for anuragjain",
+  "main": "ajco.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doions/ajco.git"
+  },
+  "keywords": [
+    "techblog",
+    "of",
+    "aj"
+  ],
+  "author": "Anurag jain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doions/ajco/issues"
+  },
+  "homepage": "https://github.com/doions/ajco#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
